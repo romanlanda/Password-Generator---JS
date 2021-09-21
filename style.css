@@ -1,0 +1,15 @@
+/* Body style */
+
+body {
+  font-family: 'Roboto';
+  font-weight: 300;
+  background-color: #8ecae6;
+}
+
+/* Form style */
+
+.password-form {
+  background-color: #edf2f4;
+}
+
+/* B */
